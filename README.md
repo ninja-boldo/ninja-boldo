@@ -1,7 +1,7 @@
 # Hi, I am Bennet
 CS student. I like building things end-to-end — from performance-critical Rust code to deployed web apps.
 
-Rust, Python, TypeScript — FastAPI, PostgreSQL, Docker, React, Vite, nginx.
+Stuff I use: Rust, Python, TypeScript — FastAPI, PostgreSQL, Docker, React, Vite, nginx.
 
 ---
 
