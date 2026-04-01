@@ -26,4 +26,4 @@ Pixel-based fractal renderer in Java. Configurable parameters, adjustable resolu
 
 Outside of code: badminton, 3D printing, and any day with good weather.
 
-![snake](https://raw.githubusercontent.com/ninja-boldo/ninja-boldo/output/ocean.gif)
+![snake](https://raw.githubusercontent.com/ninja-boldo/ninja-boldo/output/github-snake-dark.svg)
