@@ -1,26 +1,22 @@
-# Hi, I am Bennet
-CS student. I like building things end-to-end — from performance-critical Rust code to deployed web apps.
-Stuff I use: Java, Python, Rust, TypeScript — FastAPI, PostgreSQL, Docker, React, Vite, nginx.
+# Bennet
+
+CS student who builds things end-to-end — from performance-critical systems code to deployed web apps.
+
+**Languages:** Java · Python · Rust · TypeScript  
+**Stack:** FastAPI · PostgreSQL · React · Docker · Vite · nginx
 
 ---
 
 ## Projects
 
-### Grocery List App
-AI-powered grocery list with barcode scanning, voice input, and local ML inference via fine-tuned models.
-JWT-based auth, benchmarked at ~112 req/s on a 1 vCPU/1 GB VPS. Hosted on a VPS with DigitalOcean.
+**[Grocery List App](https://github.com/ninja-boldo/grocery-list-vite)** · [Live Demo](https://boldo.ddns.net)  
+Full-stack app with AI-powered barcode scanning, voice input, and on-device ML inference using fine-tuned models. JWT auth, benchmarked at ~112 req/s on a 1 vCPU / 1 GB VPS.
 
-[Live Demo](https://boldo.ddns.net) · [Repository](https://github.com/ninja-boldo/grocery-list-vite)
+**[N-Body Planetary Simulation](https://github.com/ninja-boldo-repo-group/planet_sim_cs)**  
+Python simulation with a Rust extension via PyO3. Uses a Störmer-Verlet integrator for long-term energy conservation.
 
-### N-Body Planetary Simulation
-Gravitational n-body simulation in Python with a Rust backend via PyO3. Störmer-Verlet integrator for long-term energy conservation.
-
-[Repository](https://github.com/ninja-boldo-repo-group/planet_sim_cs)
-
-### Lyapunov Fractal Generator
-Pixel-based fractal renderer in Java. Configurable parameters, adjustable resolution, PNG output.
-
-[Repository](https://github.com/ninja-boldo/lyapunov-fractal)
+**[Lyapunov Fractal Generator](https://github.com/ninja-boldo/lyapunov-fractal)**  
+Pixel-accurate fractal renderer in Java. Configurable sequence, resolution, and PNG export.
 
 ---
 
