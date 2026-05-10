@@ -11,7 +11,7 @@ I’m a **Computer Science student** passionate about building **end-to-end syst
 
 ## 🚀 Projects
 
-### [Grocery List App](https://github.com)
+### [Grocery List App](https://boldo.ddns.net/dashboard)
 *AI-powered grocery management with barcode scanning.*
 
 - **Key Features:** AI categorization, JWT authentication
@@ -19,14 +19,14 @@ I’m a **Computer Science student** passionate about building **end-to-end syst
 - [Live Demo](https://boldo.ddns.net/dashboard) · [Repository](https://github.com/ninja-boldo/grocery-list-vite)
 
 ---
-### [N-Body Planetary Simulation](https://github.com)
+### [N-Body Planetary Simulation](https://github.com/ninja-boldo-repo-group/planet_sim_cs)
 *Physics simulation using a Störmer–Verlet integrator.*
 
 - **Performance:** Rust backend exposed to Python via PyO3
 - [Repository](https://github.com/ninja-boldo-repo-group/planet_sim_cs)
 
 ---
-### [Lyapunov Fractal Generator](https://github.com)
+### [Lyapunov Fractal Generator](https://github.com/ninja-boldo/lyapunov)
 *Pixel-based fractal renderer in Java.*
 
 - **Features:** Configurable parameters, adjustable resolution, PNG export
