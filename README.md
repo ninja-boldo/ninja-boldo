@@ -17,12 +17,12 @@ I’m a **Computer Science student** passionate about building **end-to-end syst
 
 ## 🚀 Projects
 
-### [Grocery List App](https://boldo.ddns.net/dashboard)
+### Grocery List App
 *AI-powered grocery management with barcode scanning.*
 
 - **Key Features:** AI categorization, JWT authentication
 - **Stack:** Full-stack Docker deployment on a Linux VPS
-- [Live Demo](https://boldo.ddns.net/dashboard) · [Repository](https://github.com/ninja-boldo/grocery-list-vite)
+- [Repository](https://github.com/ninja-boldo/grocery-list-vite)
 
 ---
 ### [N-Body Planetary Simulation](https://github.com/ninja-boldo-repo-group/planet_sim_cs)
