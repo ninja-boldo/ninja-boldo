@@ -12,7 +12,7 @@ Computer Science student who's enthusiastic about building things that actually 
 
 ## 🚀 Projects
 
-- **[Grocery List App](https://github.com/ninja-boldo/grocery-list-vite)**: Self-hostable household app with AI categorization, barcode scanning, and meal planning.
+- **[Grocery List App](https://github.com/ninja-boldo/grocery-list-vite)**: Self-hostable household app with AI categorization, barcode scanning, meal planning and more.
 - **[N-Body Simulation](https://github.com/ninja-boldo-repo-group/planet_sim_cs)**: Real-time solar system simulation with a Rust physics core, using actual ephemeris data.
 - **[Lyapunov Fractal Generator](https://github.com/ninja-boldo/lyapunov)**: Java renderer for Lyapunov fractals with configurable sequences, Resolution and PNG export.
 
