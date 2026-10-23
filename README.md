@@ -1,13 +1,8 @@
 # Hi, I'm Bennet 👋
 
-I’m a **Computer Science student** passionate about building **end-to-end systems**—from high-performance Rust backends to fully deployed web applications.
+Computer Science student who's enthusiastic about building things that actually help people, from backends to fully deployed apps.
 
----
-
-## 🛠️ Tech Stack
-`Java` `Python` `TypeScript` `Docker`
-
----
+`Java` `Python` `TypeScript` `Docker` `Rust` *(still learning 🦀)*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ninja-boldo/ninja-boldo/output/github-snake-dark.svg">
@@ -17,29 +12,10 @@ I’m a **Computer Science student** passionate about building **end-to-end syst
 
 ## 🚀 Projects
 
-### Grocery List App
-*AI-powered grocery management with barcode scanning.*
+- **[Grocery List App](https://github.com/ninja-boldo/grocery-list-vite)**: Self-hostable household app with AI categorization, barcode scanning, and meal planning.
+- **[N-Body Simulation](https://github.com/ninja-boldo-repo-group/planet_sim_cs)**: Real-time solar system simulation with a Rust physics core, using real NASA data.
+- **[Lyapunov Fractal Generator](https://github.com/ninja-boldo/lyapunov)**: Java renderer for Lyapunov fractals with configurable sequences and PNG export.
 
-- **Key Features:** AI categorization, JWT authentication
-- **Stack:** Full-stack Docker deployment on a Linux VPS
-- [Repository](https://github.com/ninja-boldo/grocery-list-vite)
-
----
-### [N-Body Planetary Simulation](https://github.com/ninja-boldo-repo-group/planet_sim_cs)
-*Physics simulation using a Störmer–Verlet integrator.*
-
-- **Performance:** Rust backend exposed to Python via PyO3
-- [Repository](https://github.com/ninja-boldo-repo-group/planet_sim_cs)
-
----
-### [Lyapunov Fractal Generator](https://github.com/ninja-boldo/lyapunov)
-*Pixel-based fractal renderer in Java.*
-
-- **Features:** Configurable parameters, adjustable resolution, PNG export
-- [Repository](https://github.com/ninja-boldo/lyapunov)
-
----
 ## 🌍 Outside of Code
-✅ Badminton
-✅ 3D Printing
-✅ Chasing good weather
+
+Badminton · 3D Printing · Chasing good weather
